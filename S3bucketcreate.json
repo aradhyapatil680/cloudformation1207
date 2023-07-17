@@ -1,0 +1,15 @@
+{
+    "Resources": {
+        "S3B52C1G": {
+            "Type": "AWS::S3::Bucket",
+            "Properties": {
+                "BucketName": "chetancloudformation" 
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "eef34647-bb78-4dfa-89b7-d20939b4a1d3"
+                }
+            }
+        }
+    }
+}

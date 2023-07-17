@@ -1,0 +1,11 @@
+{
+    "Resources": {
+        "EC2IKGKR": {
+            "Type": "AWS::EC2::Instance",
+            "Properties": {
+                "ImageId": "ami-04132f301c3e4f138",
+                "InstanceType": "t2.micro"
+            }
+        }
+    }
+}
